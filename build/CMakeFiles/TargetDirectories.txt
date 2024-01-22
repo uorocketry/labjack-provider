@@ -1,0 +1,3 @@
+/home/marwan/Documents/uorocketry/rgs/labjack_provider/build/CMakeFiles/labjack.dir
+/home/marwan/Documents/uorocketry/rgs/labjack_provider/build/CMakeFiles/edit_cache.dir
+/home/marwan/Documents/uorocketry/rgs/labjack_provider/build/CMakeFiles/rebuild_cache.dir
